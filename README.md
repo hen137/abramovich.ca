@@ -1,2 +1,2 @@
 # abramovich.ca
-development of my resume/portfolio website
+throwing around some react.js and some node.js until I pump out something halfway decent
